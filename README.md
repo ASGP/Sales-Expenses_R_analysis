@@ -1,1 +1,1 @@
-###Linear Regression model for Sales & Expenses
+# Linear Regression Model for Sales & Expenses
