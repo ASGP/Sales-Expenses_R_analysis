@@ -44,9 +44,7 @@ The pearson correlation calue is **0.9999481** _(+)_ which ~ 1 shows that the re
 - The **coefficients** suggest that for each unit increase in expenditures, sales are expected to increase by approximately 5 units.
 - The **significant p-values** for both the intercept and expenditures indicate strong evidence against the null hypothesis, confirming that these variables are statistically significant.
 
-### Coefficient plot
 
-<img src="https://github.com/user-attachments/assets/cf030198-a741-468e-8ecc-d3db62de3022" alt="image" width="600" />
 
 adjusted r squared is 0.9998 ~ 1 better fit to the model (linear model of model1)
 
