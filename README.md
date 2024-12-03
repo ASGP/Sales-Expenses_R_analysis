@@ -3,7 +3,7 @@
 ### **A simple regression model is fit to get an idea about realtionship between Expenses and Sales of a certain company**
 
 
-#### Independant variable - Expense(Expend) 
+#### Independant variable - Expens
 #### Dependant variable - Sales
 
 
