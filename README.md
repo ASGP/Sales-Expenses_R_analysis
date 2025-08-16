@@ -35,8 +35,8 @@ The pearson correlation calue is **0.9999481** _(+)_ which ~ 1 shows that the re
 | **Performance Metric**           | **Value**         |
 |----------------------------------|-------------------|
 | Residual Standard Error          | 2.622 (on 18 DF)  |
-| Multiple R-squared               | 0.9999            |
-| Adjusted R-squared               | 0.9999            |
+| Multiple R-squared               | 0.97            |
+| Adjusted R-squared               | 0.9699            |
 | F-statistic                      | 1.734e+05 (on 1 and 18 DF) |
 | p-value                          | < 2.2e-16        |
 
